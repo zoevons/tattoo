@@ -1,3 +1,0 @@
-# colorlib-template
-
-# tattoo
